@@ -1,6 +1,7 @@
 # e_platform
 
 ## Project structure
+```
 Structure:
         <build>/
         ├── build.js
@@ -62,7 +63,7 @@ Structure:
         ├── App.vue -- root
         ├── main.js -- entry
         └── ...
-
+```
 
 ## Project setup
 ```
